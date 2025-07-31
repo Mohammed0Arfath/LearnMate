@@ -41,6 +41,10 @@ It leverages **IBM Watsonx**, **Granite LLMs**, and dynamic LLM prompting to gen
 🔗 [Frontend UI](https://your-username.github.io/learnmate-ui)
 🔗 [Backend API (POST only)](https://learnmate-backend.onrender.com)
 
+
+![Adobe Express - Preview - Made with Clipchamp (1) (1) (1)](https://github.com/user-attachments/assets/340eaf87-492f-4a88-913a-d041a470cc46)
+
+
 > 🛑 Note: Backend only accepts `POST`. Visiting it directly gives "Method Not Allowed."
 
 ---
