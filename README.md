@@ -1,13 +1,10 @@
-Here you go, Arfath bhai! Here’s the README as a `.md` file content rendered properly for GitHub:
 
----
 
 # 🧠 LearnMate: Your Personalized AI Education Coach
 
 > IBM Agentic AI Project | Internship with Edunet Foundation
 > Built Entirely on IBM Cloud + Render + GitHub Pages
 
----
 
 ## 🚀 Overview
 
