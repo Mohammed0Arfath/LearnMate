@@ -1,7 +1,7 @@
 const form = document.getElementById("roadmapForm");
 const resultBox = document.getElementById("roadmapResult");
 
-const backendUrl = "https://learnmate-backend-proxy.onrender.com"; // ✅ Must be HTTPS
+const backendUrl = "https://learnmate-backend-proxy.onrender.com/"; // ✅ Must be HTTPS
 
 form.addEventListener("submit", async (e) => {
   e.preventDefault();
