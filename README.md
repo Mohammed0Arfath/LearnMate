@@ -71,6 +71,13 @@ It leverages **IBM Watsonx**, **Granite LLMs**, and dynamic LLM prompting to gen
 
 ---
 
+<img width="1115" height="765" alt="Screenshot 2025-07-31 203033" src="https://github.com/user-attachments/assets/bccb1ff6-8883-4624-95cd-85b300e85988" />
+
+<img width="1919" height="1199" alt="Screenshot 2025-07-31 160340" src="https://github.com/user-attachments/assets/70b9edc4-afa5-433b-9618-5ef75a2d74b2" />
+
+![Adobe Express - Preview - Made with Clipchamp](https://github.com/user-attachments/assets/7f234b1a-f4dc-4c00-840b-e0315c7c2086)
+
+
 ## 📦 Folder Structure
 
 ```
