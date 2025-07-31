@@ -2,7 +2,7 @@ const form = document.getElementById("roadmapForm");
 const resultBox = document.getElementById("roadmapResult");
 
 // ✅ Your Flask proxy hosted on Render
-const backendUrl = "https://learnmate-backend.onrender.com";
+const backendUrl = "https://learnmate-backend-proxy.onrender.com";
 
 form.addEventListener("submit", async (e) => {
   e.preventDefault();
