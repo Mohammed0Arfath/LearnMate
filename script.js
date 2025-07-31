@@ -1,8 +1,7 @@
 const form = document.getElementById("roadmapForm");
 const resultBox = document.getElementById("roadmapResult");
 
-// ✅ Your Flask proxy hosted on Render
-const backendUrl = "https://learnmate-backend-proxy.onrender.com";
+const backendUrl = "https://learnmate-backend-proxy.onrender.com"; // ✅ Must be HTTPS
 
 form.addEventListener("submit", async (e) => {
   e.preventDefault();
@@ -30,6 +29,7 @@ form.addEventListener("submit", async (e) => {
 
     resultBox.innerText = data.generated_text || JSON.stringify(data, null, 2);
   } catch (error) {
+    console.error("❌ Fetch error:", error);
     resultBox.innerText = "❌ Error fetching roadmap: " + error.message;
   }
 });
