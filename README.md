@@ -131,7 +131,7 @@ python app.py
 
 **Mohammed Arfath R**
 AI/ML Engineering Student, VIT Vellore
-📧 [mohammedarfathr@gmail.com](mailto:mohammedarfath02003@gmail.com)
+📧 [mohammedarfath02003@gmail.com](mailto:mohammedarfath02003@gmail.com)
 🔗 [LinkedIn](https://in.linkedin.com/in/mohammed-arfath-r)
 
 ---
@@ -139,5 +139,3 @@ AI/ML Engineering Student, VIT Vellore
 > Built with ❤️, `console.log()`, and divine coffee-powered determination ☕.
 
 ---
-
-Would you like me to generate the actual `README.md` file now for download? Or push to your GitHub repo with a PR draft?
