@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>LearnMate – Personalized Course Planner</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>📚 LearnMate – Your AI Course Coach</h1>
+
+    <form id="roadmapForm">
+      <label>🎯 Career Goal:</label>
+      <input type="text" id="goal" placeholder="e.g., Frontend Developer" required />
+
+      <label>🧠 Known Skills:</label>
+      <input type="text" id="skills" placeholder="e.g., HTML, CSS" />
+
+      <label>⏱️ Study Hours per Week:</label>
+      <input type="number" id="hours" min="1" max="40" value="8" required />
+
+      <button type="submit">Generate Roadmap</button>
+    </form>
+
+    <div id="outputContainer">
+      <h2>🗺️ Your Personalized Roadmap:</h2>
+      <pre id="roadmapResult">Waiting for input...</pre>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
