@@ -147,3 +147,16 @@ AI/ML Engineering Student, VIT Vellore
 > Built with ❤️, `console.log()`, and divine coffee-powered determination ☕.
 
 ---
+
+## Certifications
+
+<img width="1151" height="860" alt="image" src="https://github.com/user-attachments/assets/6bd54dc9-e2f8-4719-b51a-c334b7462751" />
+
+<img width="1152" height="866" alt="image" src="https://github.com/user-attachments/assets/766760dd-54f9-478e-bcdf-39285eded39b" />
+
+<img width="1319" height="821" alt="image" src="https://github.com/user-attachments/assets/300b4d7c-cae5-486f-b604-8e850cf2be26" />
+
+---
+
+
+
