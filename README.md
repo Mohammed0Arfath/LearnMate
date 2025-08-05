@@ -38,7 +38,7 @@ It leverages **IBM Watsonx**, **Granite LLMs**, and dynamic LLM prompting to gen
 
 ## 📸 Live Demo
 
-🔗 [Frontend UI](https://your-username.github.io/learnmate-ui)
+🔗 [Frontend UI](https://mohammed0arfath.github.io/LearnMate/)
 🔗 [Backend API (POST only)](https://learnmate-backend-proxy.onrender.com)
 
 
